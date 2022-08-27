@@ -1,5 +1,6 @@
+[![MasterHead](https://c.tenor.com/flADg3jrozEAAAAd/loop-warp.gif)
 <h1 align="center">Hi 👋, I'm Vulcan</h1>
-<h3 align="center">I like coding interesting mechanics in GAMES.</h3>
+<h3 align="center">I like anything challenging.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76112245218adf9485eab9c1b3284be7ee32f05571ce&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vulcanx-2003&label=Profile%20views&color=0e75b6&style=flat" alt="VulcanX-2003" /> </p>
