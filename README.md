@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vulcan</h1>
 <h3 align="center">I like coding interesting mechanics in GAMES.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vulcanx-2003&label=Profile%20views&color=0e75b6&style=flat" alt="vulcanx-2003" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vulcanx-2003&label=Profile%20views&color=0e75b6&style=flat" alt="VulcanX-2003" /> </p>
 
 - 🔭 I’m currently working on **a Game**
 
@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Unity, C, Java, Python, Algorithms**
 
-- 📫 How to reach me **soumyadip.chowdhuri@gmail.com**
+- 📫 How to reach me, **soumyadip.chowdhuri@gmail.com**
 
-- ⚡ Fun fact **I love 3d ART and VFX**
+- ⚡ Fun fact, **I love 3d ART and VFX**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
