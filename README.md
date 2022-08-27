@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vulcan</h1>
 <h3 align="center">I like coding interesting mechanics in GAMES.</h3>
-<img align="right" alt="Coding" size=400 src="https://media.giphy.com/media/dmZyXvE1xvlw0kxn8C/giphy-downsized-large.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/dmZyXvE1xvlw0kxn8C/giphy-downsized-large.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vulcanx-2003&label=Profile%20views&color=0e75b6&style=flat" alt="VulcanX-2003" /> </p>
 
