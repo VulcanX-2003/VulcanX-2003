@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vulcan</h1>
-<h3 align="center">I like coding interesting mechanics for games and problem solving applications.</h3>
+<h3 align="center">I like coding interesting mechanics in GAMES.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vulcanx-2003&label=Profile%20views&color=0e75b6&style=flat" alt="vulcanx-2003" /> </p>
 
