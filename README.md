@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/26/ef/5a/26ef5aebb8ae9aec3b8c4c3eba940d0f.gif)
+![MasterHead](https://camo.githubusercontent.com/93edb5f8f77c6018c344351d618d6284bf05067c1aaec993f516cee894d8c045/68747470733a2f2f77616c6c7061706572636176652e636f6d2f77702f7770323736333839312e676966)
 <h1>Hi 👋, I'm Soumyadip Chowdhuri</h1>
 <h3>I like anything challenging.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76112245218adf9485eab9c1b3284be7ee32f05571ce&rid=giphy.gif&ct=g">
