@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapercave.com/wp/wp2763891.gif)
+![MasterHead](https://i.pinimg.com/originals/26/ef/5a/26ef5aebb8ae9aec3b8c4c3eba940d0f.gif)
 <h1>Hi 👋, I'm Soumyadip Chowdhuri</h1>
 <h3>I like anything challenging.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76112245218adf9485eab9c1b3284be7ee32f05571ce&rid=giphy.gif&ct=g">
