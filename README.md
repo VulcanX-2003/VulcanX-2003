@@ -8,7 +8,7 @@ I'm from Kolkata,India. I have a passion for working with hardware. When I'm not
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/__vulcanx_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@__vulcanx_" height="30" width="40" /></a>
-<a href="https://github.com/VulcanX-2003"><img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png)' alt='github' height="30" width="40"/></a>
+<a href="https://github.com/VulcanX-2003"><img src='[[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png)](https://www.pngfind.com/pngs/m/176-1766942_our-github-repos-are-here-github-icon-hd.png)' alt='github' height="30" width="40"/></a>
 
 </p>
 
