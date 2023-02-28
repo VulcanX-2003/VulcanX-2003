@@ -1,20 +1,9 @@
 ![MasterHead](https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif)
 <h1>Hi 👋, I'm Soumyadip Chowdhuri</h1>
-<h3>I'm from Kolkata, India</h3> 
-I'm an Electronics and Software developer with a passion for working with hardware. When I'm not working on projects, I enjoy making games as a hobby. I love being able to combine my technical skills with my creative interests, and I'm always looking for new ways to challenge myself and learn more. Whether I'm designing complex systems or tinkering with new hardware, I'm always driven by a desire to push boundaries and create something truly innovative.
+<h3>Electronics and Software developer</h3> 
+I'm from Kolkata,India. I have a passion for working with hardware. When I'm not working on projects, I enjoy making games as a hobby. I love being able to combine my technical skills with my creative interests, and I'm always looking for new ways to challenge myself and learn more. Whether I'm designing complex systems or tinkering with new hardware, I'm always driven by a desire to push boundaries and create something truly innovative.
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76112245218adf9485eab9c1b3284be7ee32f05571ce&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vulcanx-2003&label=Profile%20views&color=0e75b6&style=flat" alt="VulcanX-2003" /> </p>
-
-- 🔭 I’m currently working on **a Game**
-
-- 🌱 I’m currently learning **AI ML**
-
-- 💬 Ask me about **Unity, C, Java, Python, Algorithms**
-
-- 📫 How to reach me, **soumyadip.chowdhuri@gmail.com**
-
-- ⚡ Fun fact, **I love 3d ART and VFX**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
