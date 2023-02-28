@@ -11,9 +11,11 @@ I'm from Kolkata,India. I have a passion for working with hardware. When I'm not
 </p>
 
 
-<h3 align="left">Stats:</h3>
+
 
 ![Profile views](https://gpvc.arturio.dev/VulcanX-2003)
+
+<h3 align="left">Statistics:</h3>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vulcanx-2003&show_icons=true&locale=en" alt="vulcanx-2003" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vulcanx-2003&" alt="vulcanx-2003" /></p>
