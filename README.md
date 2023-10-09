@@ -20,6 +20,8 @@ I'm from Kolkata,India. I have a passion for working with hardware. When I'm not
 
 
 <h3 align="left">Statistics:</h3>
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=vulcanx-2003&show_icons=true&locale=en" alt="vulcanx-2003" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vulcanx-2003&show_icons=true&locale=en&layout=compact" alt="vulcanx-2003" /></p>
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=vulcanx-2003&" alt="vulcanx-2003" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vulcanx-2003&show_icons=true&locale=en" alt="vulcanx-2003" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vulcanx-2003&" alt="vulcanx-2003" /></p>
