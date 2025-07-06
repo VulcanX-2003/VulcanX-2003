@@ -34,13 +34,6 @@ I'm a passionate **hardware tinkerer** and **game developer** from **Kolkata, In
 
 ---
 
-## 🌟 Featured Projects
-
-- **[Retro Game Emulator](https://github.com/vulcanx-2003/retro-emulator)**: Built a Game Boy Color emulator using ESP32 and FabGL, with a custom UI for a 2.8-inch ILI9341 display.  
-- **[Motorbike Controller](https://github.com/vulcanx-2003/motorbike-controller)**: Developed a realistic first-person motorbike controller in Unity using the new Input System, with toggleable automatic and geared controls.  
-- **[Nothing Clock](https://github.com/vulcanx-2003/nothing-clock)**: Contributed to a minimalist Flutter-based clock app for Android, inspired by Nothing's design aesthetic.  
-- **[Music App](https://github.com/vulcanx-2003/music-app)**: Enhanced a React Native music app with YouTube Piped API for streaming and downloading, maintaining a sleek UI.
-
 ---
 
 ## 💻 What I'm Working On
