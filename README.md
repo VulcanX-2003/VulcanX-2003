@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Soumyadip Chowdhuri
+# Hey, I'm Soumyadip Chowdhuri
 
 ![Header](https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif)
 
